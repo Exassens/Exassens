@@ -1,10 +1,10 @@
 Greeting !
 - My name is Adrien and I founded Lost in Game Studio also named LIGS. 
-- Currently I'm developing Entity: Hidden Program, a platform action game on mobile 
-- and Touch Designer, an Unreal Engine plugin for creating and managing virtual controls on smartphones. 
+- Currently I'm developing Entity: Hidden Program, a scifi platform action game 
+- and Touch Interface Designer, an Unreal Engine plugin for creating and managing virtual controls on mobile. 
 - I also publish tutorials on the Unreal Engine!
-- You can support my work with Ko-fi!
-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3EMY6U)
+- You can support my work!
+- https://www.lostingamestudio.com/donation
 
 <!--- - 👋 Hi, I’m @Exassens
 - 👀 I’m interested in ...
